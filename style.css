@@ -35,3 +35,15 @@ h1{
         margin-left: 25px !important;
     }
 }
+
+@media screen and (max-width: 470px){
+    .card {
+        width: 230px;
+        height: 230px;
+        margin-bottom: 10px !important;
+        margin-left: 15px !important;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
